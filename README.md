@@ -1,10 +1,10 @@
 # DeactivationIDM
 
-### reg文件:
+### reg文件[下载](https://raw.githubusercontent.com/HXHGTS/DeactivationIDM/master/DeactivationIDM.reg):
 
 IDM反激活，重置激活状态，恢复30天试用期，可用于反复试用
 
-### json文件:
+### json文件[下载](https://raw.githubusercontent.com/HXHGTS/DeactivationIDM/master/idmcracker.json):
 
 1.用reg文件重置激活状态
 
