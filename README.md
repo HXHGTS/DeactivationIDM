@@ -1,6 +1,6 @@
 # DeactivationIDM
 
-### reg文件[下载](https://cdn.jsdelivr.net/gh/HXHGTS/DeactivationIDM/DeactivationIDM.reg):
+### reg文件[下载](./DeactivationIDM.reg):
 
 IDM反激活，重置激活状态，恢复30天试用期，可用于反复试用
 
